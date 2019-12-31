@@ -12,20 +12,15 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-<<<<<<< HEAD
-  name: Adam Denisov
-  tagline: Developer(Java)
-=======
   name: George Wang
-  tagline: Developer
->>>>>>> b2225d6b98be3e778c672515c07e86f5be1bd84c
+  tagline: Developer(Java)
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
     #twitter: thelehhman
-    github:  thelehhman
+    github:  KnightGeorge
     #linkedIn: in/thelehhman
     rss: rss
     # dribbble: jekyll
